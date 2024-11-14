@@ -43,7 +43,6 @@ admin.site.register(BankLoan,BankLoanAdmin)
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
 ![alt text](<Screenshot 2024-11-14 154916-1.png>)
 
 ## RESULT
