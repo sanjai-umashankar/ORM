@@ -44,6 +44,5 @@ admin.site.register(BankLoan,BankLoanAdmin)
 ## OUTPUT
 
 ![alt text](<Screenshot 2024-11-14 154916-1.png>)
-
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
